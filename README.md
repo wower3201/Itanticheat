@@ -1,8 +1,6 @@
 # Itanticheat
-Il più grande anticheat Italiano
+NBT Potenti prodotti interamente da a1Piolpolars!
+Copyright
+Crediti: a1Piolpolars*
 
-Per abilitarlo del tutto dovrai:
-Abilitare Gametest Framework
-Abilitare i comandi
-
-Questo anticheat è in sviluppazione,
+*Non editiamo nbt già fatti, li produciamo
